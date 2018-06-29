@@ -45,7 +45,7 @@ Disvantages:
 
     Increased application complexity: the server can only render the components once
     
-    => servr must execute asynchronous data fetching before calling renderToString, which will complicate the structure
+    => server must execute asynchronous data fetching before calling renderToString, which will complicate the structure
     
     Increased Server Load: For some versions of ReactJS, renderToString() is synchronous, not friendly for NodeJS
 

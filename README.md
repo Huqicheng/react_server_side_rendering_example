@@ -4,7 +4,7 @@ How to run this Demo?
 -----------------------------------------------
 ```
 npm install 
-npm run dev
+npm run build
 ```
 In your browser,
 

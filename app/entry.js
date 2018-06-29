@@ -5,6 +5,6 @@ var React = require('react'),
 var APP_PROPS = window.APP_PROPS || {};
 
 ReactDOM.render(
-    <App content={APP_PROPS.content}/>,
+    <App content={"## Default"}/>,
     document.getElementById('root')
 );

@@ -1,3 +1,7 @@
+/*
+* Definition of the Index Page, will generate a new file page.generator.js
+ */
+
 var React = require('react');
 var ReactDOMServer = require("react-dom/server");
 

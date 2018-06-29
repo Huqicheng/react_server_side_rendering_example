@@ -1,5 +1,15 @@
 React Server Side Rendering Example
 ==============================================
+How to run this Demo?   
+-----------------------------------------------
+```
+npm install 
+npm run dev
+```
+In your browser,
+
+http://localhost:3000/
+
 Why should we do Server Side Rendering?
 -----------------------------------------------
 ## 1. What happens when we use Client Side Rendering?

@@ -48,4 +48,13 @@ Disvantages:
     => server must execute asynchronous data fetching before calling renderToString, which will complicate the structure
     
     Increased Server Load: For some versions of ReactJS, renderToString() is synchronous, not friendly for NodeJS
+    
+    
+## 4. Some methods of Improving the problem of Increased Server Load
+
+Caching the rendered page
+
+Using the ReactJS version which has supported the asynchronous renderToString()
+
+
 

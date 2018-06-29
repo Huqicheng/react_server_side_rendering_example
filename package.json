@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node ./bin/www",
+    "dev": "webpack&&node app.js"
   },
   "dependencies": {
     "@types/react": "^16.4.4",
